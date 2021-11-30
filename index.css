@@ -1,0 +1,8 @@
+.header{
+    background-image: url(images/Today1.jpeg);
+    background-size: cover;
+    height: 120vh;
+    justify-content: center;
+    background-color: aqua;
+    text-align: center;
+}
