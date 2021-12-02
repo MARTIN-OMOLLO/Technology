@@ -1,0 +1,10 @@
+.about{ 
+    justify-content: space-around;
+    text-align: center;
+    background-color: cadetblue;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
